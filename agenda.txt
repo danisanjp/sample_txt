@@ -1,0 +1,11 @@
+Nombre: Daniel
+Correo electrónico: daniel@email.com
+Teléfono: 123-456-789
+
+Nombre: Ana
+Correo electrónico: ana@email.com
+Teléfono: 987-654-321
+
+Nombre: Carlos
+Correo electrónico: carlos@email.com
+Teléfono: 555-123-456
